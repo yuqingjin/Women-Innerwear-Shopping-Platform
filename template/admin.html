@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Platform Management System</title>
+    <meta name="description" content="This is a women innerwear shopping platform">
+    <meta name="keywords" content="Victoria's Secret, innerwear, women">
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <div id="header">
+
+            <div class="top_banner">
+                <h1>Women's Innerwear Shopping Management</h1>
+            </div>
+
+        </div>
+
+        <div id="page_content">
+
+            <div class="left_side_bar">
+
+                <div class="col_1">
+                    <div class="box">
+                        <ul>
+                            <li><a href="/Home">Home</a></li>
+                            <li><a href="/user">User</a></li>
+                            <li><a href="/product">Product</a></li>
+                            <li><a href="/login">Login</a></li>
+                            <li><a href="/user_view">User View</a></li>
+                            <li><a href="/admin">Admin</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+            
+            <div class="right_section">
+                <div class="common_content">
+                    <h2>Admin</h2>
+                    <hr>
+                    <h2>Search for Order Information : </h2>
+                    <fieldset>
+                    <!-- "action" is function in server.py -->
+                        <form accept-charset="UTF-8" action="/search_address" autocomplete="off" method="POST"
+                            target="_blank">
+                            <fieldset>
+                                <legend>Search for Addresses</legend>
+                                <!-- <label for="address_id">Address ID : </label><input name="address_id" type="text"value="" /> <br /> -->
+                                <label for="od_id">Order ID : </label><input name="od_id" type="text"value="" /> <br />
+                                <label for="user_id">User ID : </label> <input name="user_id" type="text" value="" /> <br />
+                                <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                                <input type="submit" value="Search" onclick="loading();">
+                            </fieldset>
+                        </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th>
+                                <th>Address ID</th>
+                                <th>User ID</th>
+                                <th>Street Address</th>
+                                <th>Apt</th>
+                                <th>City</th>
+                                <th>State</th>
+                                <th>Postcode</th>
+                                <th>Phone Number</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in usr_add %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+
+                        </tbody>
+                    </table><hr />
+                    
+                    <!-- "action" is function in server.py -->
+                    <form accept-charset="UTF-8" action="/search_payment" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Search for Payments</legend>
+                            <label for="od_id">Order ID : </label><input name="od_id" type="text"value="" /> <br />
+                            <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br />
+                            <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th>
+                                <th>Payment ID</th>
+                                <th>User ID</th>
+                                <th>Card Number</th>
+                                <th>Expiration Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in usr_pay %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    
+                    <!-- "action" is function in server.py -->
+                    <form accept-charset="UTF-8" action="/search_order" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Search for Order Detail</legend>
+                            <!-- <label for="address_id">Address ID : </label><input name="address_id" type="text"value="" /> <br /> -->
+                            <label for="od_id">Order ID : </label> <input name="od_id"type="text" value="" /> <br />
+                            <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th>
+                                <th>User ID</th>
+                                <th>Shopping Cart ID</th>
+                                <th>Address ID</th>
+                                <th>Payment ID</th>
+                                <th>Created Time</th>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in order %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <hr />
+                    </fieldset>
+                    <h2>Search for Shopping Cart</h2>
+                    <fieldset>
+                    <!-- "action" is function in server.py -->
+                    <form accept-charset="UTF-8" action="/search_shoppingcart" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Search for Shopping Cart</legend>
+                            <!-- <label for="address_id">Address ID : </label><input name="address_id" type="text"value="" /> <br /> -->
+                            <label for="sc_id">Shopping Cart ID : </label> <input name="sc_id" type="text" value="" /> <br />
+                            <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br />
+                            <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Shopping Cart ID</th>
+                                <th>User ID</th>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                                <th>Ordered</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in sc %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                </fieldset>
+                    <h2>Add New Product and Category : </h2>
+                    <fieldset>
+                    <form accept-charset="UTF-8" action="/add_product" autocomplete="off" method="POST" target="_blank">
+                    <fieldset>
+                        <legend>Add New Product</legend>
+                        <label for="product_name">Product Name : </label><input name="product_name" type="text" value="" /> <br />
+                        <label for="inventory">Inventory : </label><input name="inventory" type="text" value="" /> <br />
+                        <label for="unit_price">Unit Price : </label><input name="unit_price" type="text" value="" /> <br />
+                        <label for="category_id">Category ID : </label><input name="category_id" type="text" value="" /> <br />
+                        <input type="submit" value="Add" onclick="loading();">
+                    </fieldset>
+                    </form><hr />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Category ID</th>
+                                <th>Category Name</th>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Inventory</th>
+                                <th>Unit Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in pd %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+
+                    <form accept-charset="UTF-8" action="/add_category" autocomplete="off" method="POST"
+                    target="_blank">
+                    <fieldset>
+                        <legend>Add Category</legend>
+                        <label for="category_name">Category Name : </label> <input name="category_name"type="text" value="" /> <br />
+                        <input type="submit" value="Add" onclick="loading();">
+                    </fieldset>
+                    </form>
+                </form>
+                <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Category ID</th>
+                                <th>Category Name</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in cg %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+
+                </div>
+            </div>
+        </fieldset>
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,1641 @@
+2022-04-04 19:22:49,039  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:22:49,039  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:22:57,818 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:22:58,801 In-flight request: Connection established!
+2022-04-04 19:22:58,813 127.0.0.1 - - [04/Apr/2022 19:22:58] "GET / HTTP/1.1" 200 -
+2022-04-04 19:22:58,916 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:22:58,917 In-flight request: Connection established!
+2022-04-04 19:22:58,919 127.0.0.1 - - [04/Apr/2022 19:22:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:22:58,977 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:22:58,977 In-flight request: Connection established!
+2022-04-04 19:22:58,978 127.0.0.1 - - [04/Apr/2022 19:22:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-04 19:23:03,800 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:03,800 In-flight request: Connection established!
+2022-04-04 19:23:03,817 127.0.0.1 - - [04/Apr/2022 19:23:03] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:23:03,850 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:03,851 In-flight request: Connection established!
+2022-04-04 19:23:03,852 127.0.0.1 - - [04/Apr/2022 19:23:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:09,783 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:09,783 In-flight request: Connection established!
+2022-04-04 19:23:09,795 127.0.0.1 - - [04/Apr/2022 19:23:09] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:23:09,822 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:09,822 In-flight request: Connection established!
+2022-04-04 19:23:09,824 127.0.0.1 - - [04/Apr/2022 19:23:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:10,532 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:10,533 In-flight request: Connection established!
+2022-04-04 19:23:10,542 127.0.0.1 - - [04/Apr/2022 19:23:10] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:23:10,579 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:10,579 In-flight request: Connection established!
+2022-04-04 19:23:10,580 127.0.0.1 - - [04/Apr/2022 19:23:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:11,259 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:11,260 In-flight request: Connection established!
+2022-04-04 19:23:11,264 127.0.0.1 - - [04/Apr/2022 19:23:11] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:23:11,298 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:11,298 In-flight request: Connection established!
+2022-04-04 19:23:11,299 127.0.0.1 - - [04/Apr/2022 19:23:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:11,886 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:11,887 In-flight request: Connection established!
+2022-04-04 19:23:11,888 127.0.0.1 - - [04/Apr/2022 19:23:11] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:23:11,922 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:11,923 In-flight request: Connection established!
+2022-04-04 19:23:11,924 127.0.0.1 - - [04/Apr/2022 19:23:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:12,737 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:12,737 In-flight request: Connection established!
+2022-04-04 19:23:12,752 127.0.0.1 - - [04/Apr/2022 19:23:12] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:23:12,784 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:12,784 In-flight request: Connection established!
+2022-04-04 19:23:12,785 127.0.0.1 - - [04/Apr/2022 19:23:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:13,886 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:13,886 In-flight request: Connection established!
+2022-04-04 19:23:13,887 127.0.0.1 - - [04/Apr/2022 19:23:13] "GET /Home HTTP/1.1" 200 -
+2022-04-04 19:23:13,922 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:13,923 In-flight request: Connection established!
+2022-04-04 19:23:13,925 127.0.0.1 - - [04/Apr/2022 19:23:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:15,500 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:15,500 In-flight request: Connection established!
+2022-04-04 19:23:15,501 127.0.0.1 - - [04/Apr/2022 19:23:15] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:23:15,537 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:15,537 In-flight request: Connection established!
+2022-04-04 19:23:15,538 127.0.0.1 - - [04/Apr/2022 19:23:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:16,290 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:16,291 In-flight request: Connection established!
+2022-04-04 19:23:16,292 127.0.0.1 - - [04/Apr/2022 19:23:16] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:23:16,331 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:16,331 In-flight request: Connection established!
+2022-04-04 19:23:16,333 127.0.0.1 - - [04/Apr/2022 19:23:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:16,939 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:16,940 In-flight request: Connection established!
+2022-04-04 19:23:16,941 127.0.0.1 - - [04/Apr/2022 19:23:16] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:23:16,974 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:16,975 In-flight request: Connection established!
+2022-04-04 19:23:16,977 127.0.0.1 - - [04/Apr/2022 19:23:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:17,901 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:17,901 In-flight request: Connection established!
+2022-04-04 19:23:17,902 127.0.0.1 - - [04/Apr/2022 19:23:17] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:23:17,940 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:17,940 In-flight request: Connection established!
+2022-04-04 19:23:17,943 127.0.0.1 - - [04/Apr/2022 19:23:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:18,750 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:18,751 In-flight request: Connection established!
+2022-04-04 19:23:18,752 127.0.0.1 - - [04/Apr/2022 19:23:18] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:23:18,787 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:18,787 In-flight request: Connection established!
+2022-04-04 19:23:18,789 127.0.0.1 - - [04/Apr/2022 19:23:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:19,839 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:19,840 In-flight request: Connection established!
+2022-04-04 19:23:19,841 127.0.0.1 - - [04/Apr/2022 19:23:19] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:23:19,885 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:19,885 In-flight request: Connection established!
+2022-04-04 19:23:19,886 127.0.0.1 - - [04/Apr/2022 19:23:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:24,327 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:24,327 In-flight request: Connection established!
+2022-04-04 19:23:24,328 127.0.0.1 - - [04/Apr/2022 19:23:24] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:23:24,359 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:24,359 In-flight request: Connection established!
+2022-04-04 19:23:24,360 127.0.0.1 - - [04/Apr/2022 19:23:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:43,480 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:43,480 In-flight request: Connection established!
+2022-04-04 19:23:43,481 127.0.0.1 - - [04/Apr/2022 19:23:43] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:23:43,518 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:43,519 In-flight request: Connection established!
+2022-04-04 19:23:43,520 127.0.0.1 - - [04/Apr/2022 19:23:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:44,933 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:44,933 In-flight request: Connection established!
+2022-04-04 19:23:44,934 127.0.0.1 - - [04/Apr/2022 19:23:44] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:23:44,968 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:44,968 In-flight request: Connection established!
+2022-04-04 19:23:44,970 127.0.0.1 - - [04/Apr/2022 19:23:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:45,690 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:45,690 In-flight request: Connection established!
+2022-04-04 19:23:45,691 127.0.0.1 - - [04/Apr/2022 19:23:45] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:23:45,727 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:45,728 In-flight request: Connection established!
+2022-04-04 19:23:45,729 127.0.0.1 - - [04/Apr/2022 19:23:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:48,049 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:48,050 In-flight request: Connection established!
+2022-04-04 19:23:48,051 127.0.0.1 - - [04/Apr/2022 19:23:48] "GET /Home HTTP/1.1" 200 -
+2022-04-04 19:23:48,085 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:48,085 In-flight request: Connection established!
+2022-04-04 19:23:48,087 127.0.0.1 - - [04/Apr/2022 19:23:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:23:49,093 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:49,093 In-flight request: Connection established!
+2022-04-04 19:23:49,094 127.0.0.1 - - [04/Apr/2022 19:23:49] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:23:49,130 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:23:49,130 In-flight request: Connection established!
+2022-04-04 19:23:49,131 127.0.0.1 - - [04/Apr/2022 19:23:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:27:08,814  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:27:08,814  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:27:13,931  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:27:13,931  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:27:15,559 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:27:16,709 In-flight request: Connection established!
+2022-04-04 19:27:16,729 127.0.0.1 - - [04/Apr/2022 19:27:16] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:27:16,777 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:27:16,777 In-flight request: Connection established!
+2022-04-04 19:27:16,779 127.0.0.1 - - [04/Apr/2022 19:27:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:28:35,343  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:28:35,344  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:28:36,826 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:28:37,641 In-flight request: Connection established!
+2022-04-04 19:28:37,657 127.0.0.1 - - [04/Apr/2022 19:28:37] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:28:37,707 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:28:37,707 In-flight request: Connection established!
+2022-04-04 19:28:37,708 127.0.0.1 - - [04/Apr/2022 19:28:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:33:04,491  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:33:04,492  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:33:04,858 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:33:05,528 In-flight request: Connection established!
+2022-04-04 19:33:05,548 127.0.0.1 - - [04/Apr/2022 19:33:05] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:33:05,549 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:33:05,549 In-flight request: Connection established!
+2022-04-04 19:33:05,550 127.0.0.1 - - [04/Apr/2022 19:33:05] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:33:05,633 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:33:05,634 In-flight request: Connection established!
+2022-04-04 19:33:05,637 127.0.0.1 - - [04/Apr/2022 19:33:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:34:50,317  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:34:50,318  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:34:50,747 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:34:51,361 In-flight request: Connection established!
+2022-04-04 19:34:51,376 127.0.0.1 - - [04/Apr/2022 19:34:51] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:34:51,424 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:34:51,424 In-flight request: Connection established!
+2022-04-04 19:34:51,426 127.0.0.1 - - [04/Apr/2022 19:34:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:35:37,371  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:35:37,371  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:35:38,575 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:35:38,981 In-flight request: Connection established!
+2022-04-04 19:35:39,001 127.0.0.1 - - [04/Apr/2022 19:35:39] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:35:39,024 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:35:39,024 In-flight request: Connection established!
+2022-04-04 19:35:39,026 127.0.0.1 - - [04/Apr/2022 19:35:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:37:43,286  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:37:43,287  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:37:43,797 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:37:44,409 In-flight request: Connection established!
+2022-04-04 19:37:44,426 127.0.0.1 - - [04/Apr/2022 19:37:44] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:37:44,481 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:37:44,481 In-flight request: Connection established!
+2022-04-04 19:37:44,482 127.0.0.1 - - [04/Apr/2022 19:37:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:38:23,871  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:38:23,872  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:38:24,753 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:38:25,400 In-flight request: Connection established!
+2022-04-04 19:38:25,414 127.0.0.1 - - [04/Apr/2022 19:38:25] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:38:25,434 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:38:25,434 In-flight request: Connection established!
+2022-04-04 19:38:25,436 127.0.0.1 - - [04/Apr/2022 19:38:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:43:58,036  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:43:58,037  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:43:58,675 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:43:59,762 In-flight request: Connection established!
+2022-04-04 19:43:59,784 127.0.0.1 - - [04/Apr/2022 19:43:59] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:44:00,840 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:44:00,840 In-flight request: Connection established!
+2022-04-04 19:44:00,841 127.0.0.1 - - [04/Apr/2022 19:44:00] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:44:00,893 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:44:00,894 In-flight request: Connection established!
+2022-04-04 19:44:00,895 127.0.0.1 - - [04/Apr/2022 19:44:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:45:09,300  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:45:09,300  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:45:09,898 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:45:10,580 In-flight request: Connection established!
+2022-04-04 19:45:10,597 127.0.0.1 - - [04/Apr/2022 19:45:10] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:45:10,648 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:45:10,648 In-flight request: Connection established!
+2022-04-04 19:45:10,649 127.0.0.1 - - [04/Apr/2022 19:45:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:49:41,435  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:49:41,435  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:49:42,048 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:49:42,766 In-flight request: Connection established!
+2022-04-04 19:49:42,790 127.0.0.1 - - [04/Apr/2022 19:49:42] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:49:42,841 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:49:42,841 In-flight request: Connection established!
+2022-04-04 19:49:42,843 127.0.0.1 - - [04/Apr/2022 19:49:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:50:10,602 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:10,603 In-flight request: Connection established!
+2022-04-04 19:50:10,615 127.0.0.1 - - [04/Apr/2022 19:50:10] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:50:10,643 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:10,643 In-flight request: Connection established!
+2022-04-04 19:50:10,644 127.0.0.1 - - [04/Apr/2022 19:50:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:50:12,713 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:12,713 In-flight request: Connection established!
+2022-04-04 19:50:12,714 127.0.0.1 - - [04/Apr/2022 19:50:12] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:50:12,745 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:12,745 In-flight request: Connection established!
+2022-04-04 19:50:12,746 127.0.0.1 - - [04/Apr/2022 19:50:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:50:13,977 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:13,978 In-flight request: Connection established!
+2022-04-04 19:50:13,982 127.0.0.1 - - [04/Apr/2022 19:50:13] "GET /Home HTTP/1.1" 200 -
+2022-04-04 19:50:14,017 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:14,018 In-flight request: Connection established!
+2022-04-04 19:50:14,019 127.0.0.1 - - [04/Apr/2022 19:50:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:50:15,398 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:15,398 In-flight request: Connection established!
+2022-04-04 19:50:15,403 127.0.0.1 - - [04/Apr/2022 19:50:15] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:50:15,438 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:15,439 In-flight request: Connection established!
+2022-04-04 19:50:15,440 127.0.0.1 - - [04/Apr/2022 19:50:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:50:16,503 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:16,503 In-flight request: Connection established!
+2022-04-04 19:50:16,521 127.0.0.1 - - [04/Apr/2022 19:50:16] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:50:16,557 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:16,557 In-flight request: Connection established!
+2022-04-04 19:50:16,558 127.0.0.1 - - [04/Apr/2022 19:50:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:50:55,214  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:50:55,215  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:50:56,891 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:57,731 In-flight request: Connection established!
+2022-04-04 19:50:57,755 127.0.0.1 - - [04/Apr/2022 19:50:57] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:50:57,800 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:50:57,800 In-flight request: Connection established!
+2022-04-04 19:50:57,801 127.0.0.1 - - [04/Apr/2022 19:50:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:12,937 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:12,938 In-flight request: Connection established!
+2022-04-04 19:51:12,941 127.0.0.1 - - [04/Apr/2022 19:51:12] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:51:12,974 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:12,975 In-flight request: Connection established!
+2022-04-04 19:51:12,976 127.0.0.1 - - [04/Apr/2022 19:51:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:13,649 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:13,649 In-flight request: Connection established!
+2022-04-04 19:51:13,650 127.0.0.1 - - [04/Apr/2022 19:51:13] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:51:13,686 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:13,687 In-flight request: Connection established!
+2022-04-04 19:51:13,688 127.0.0.1 - - [04/Apr/2022 19:51:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:14,339 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:14,339 In-flight request: Connection established!
+2022-04-04 19:51:14,354 127.0.0.1 - - [04/Apr/2022 19:51:14] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:51:14,393 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:14,394 In-flight request: Connection established!
+2022-04-04 19:51:14,395 127.0.0.1 - - [04/Apr/2022 19:51:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:16,948 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:16,949 In-flight request: Connection established!
+2022-04-04 19:51:16,950 127.0.0.1 - - [04/Apr/2022 19:51:16] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:51:16,972 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:16,973 In-flight request: Connection established!
+2022-04-04 19:51:16,974 127.0.0.1 - - [04/Apr/2022 19:51:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:17,486 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:17,486 In-flight request: Connection established!
+2022-04-04 19:51:17,487 127.0.0.1 - - [04/Apr/2022 19:51:17] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:51:17,514 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:17,514 In-flight request: Connection established!
+2022-04-04 19:51:17,516 127.0.0.1 - - [04/Apr/2022 19:51:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:18,613 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:18,613 In-flight request: Connection established!
+2022-04-04 19:51:18,614 127.0.0.1 - - [04/Apr/2022 19:51:18] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:51:18,656 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:18,656 In-flight request: Connection established!
+2022-04-04 19:51:18,657 127.0.0.1 - - [04/Apr/2022 19:51:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:19,485 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:19,488 In-flight request: Connection established!
+2022-04-04 19:51:19,497 127.0.0.1 - - [04/Apr/2022 19:51:19] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:51:19,531 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:19,532 In-flight request: Connection established!
+2022-04-04 19:51:19,533 127.0.0.1 - - [04/Apr/2022 19:51:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:20,140 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:20,140 In-flight request: Connection established!
+2022-04-04 19:51:20,150 127.0.0.1 - - [04/Apr/2022 19:51:20] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:51:20,190 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:20,190 In-flight request: Connection established!
+2022-04-04 19:51:20,191 127.0.0.1 - - [04/Apr/2022 19:51:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:20,976 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:20,976 In-flight request: Connection established!
+2022-04-04 19:51:20,981 127.0.0.1 - - [04/Apr/2022 19:51:20] "GET /Home HTTP/1.1" 200 -
+2022-04-04 19:51:21,013 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:21,013 In-flight request: Connection established!
+2022-04-04 19:51:21,015 127.0.0.1 - - [04/Apr/2022 19:51:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:22,363 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:22,363 In-flight request: Connection established!
+2022-04-04 19:51:22,365 127.0.0.1 - - [04/Apr/2022 19:51:22] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:51:22,402 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:22,402 In-flight request: Connection established!
+2022-04-04 19:51:22,403 127.0.0.1 - - [04/Apr/2022 19:51:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:51:49,566  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:51:49,567  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:51:53,222 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:53,885 In-flight request: Connection established!
+2022-04-04 19:51:53,905 127.0.0.1 - - [04/Apr/2022 19:51:53] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:51:53,921 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:51:53,922 In-flight request: Connection established!
+2022-04-04 19:51:53,924 127.0.0.1 - - [04/Apr/2022 19:51:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:05,233 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:05,233 In-flight request: Connection established!
+2022-04-04 19:52:05,238 127.0.0.1 - - [04/Apr/2022 19:52:05] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:52:05,297 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:05,297 In-flight request: Connection established!
+2022-04-04 19:52:05,298 127.0.0.1 - - [04/Apr/2022 19:52:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:06,467 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:06,468 In-flight request: Connection established!
+2022-04-04 19:52:06,469 127.0.0.1 - - [04/Apr/2022 19:52:06] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:52:06,506 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:06,506 In-flight request: Connection established!
+2022-04-04 19:52:06,507 127.0.0.1 - - [04/Apr/2022 19:52:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:08,279 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:08,280 In-flight request: Connection established!
+2022-04-04 19:52:08,298 127.0.0.1 - - [04/Apr/2022 19:52:08] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:52:08,331 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:08,332 In-flight request: Connection established!
+2022-04-04 19:52:08,333 127.0.0.1 - - [04/Apr/2022 19:52:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:09,166 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:09,166 In-flight request: Connection established!
+2022-04-04 19:52:09,167 127.0.0.1 - - [04/Apr/2022 19:52:09] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:52:09,204 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:09,205 In-flight request: Connection established!
+2022-04-04 19:52:09,206 127.0.0.1 - - [04/Apr/2022 19:52:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:10,755 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:10,755 In-flight request: Connection established!
+2022-04-04 19:52:10,763 127.0.0.1 - - [04/Apr/2022 19:52:10] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:52:10,797 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:10,797 In-flight request: Connection established!
+2022-04-04 19:52:10,798 127.0.0.1 - - [04/Apr/2022 19:52:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:36,059 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:36,059 In-flight request: Connection established!
+2022-04-04 19:52:36,060 127.0.0.1 - - [04/Apr/2022 19:52:36] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:52:36,100 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:36,101 In-flight request: Connection established!
+2022-04-04 19:52:36,102 127.0.0.1 - - [04/Apr/2022 19:52:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:37,146 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:37,147 In-flight request: Connection established!
+2022-04-04 19:52:37,148 127.0.0.1 - - [04/Apr/2022 19:52:37] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:52:37,185 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:37,185 In-flight request: Connection established!
+2022-04-04 19:52:37,187 127.0.0.1 - - [04/Apr/2022 19:52:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:38,544 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:38,545 In-flight request: Connection established!
+2022-04-04 19:52:38,546 127.0.0.1 - - [04/Apr/2022 19:52:38] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:52:38,586 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:38,586 In-flight request: Connection established!
+2022-04-04 19:52:38,587 127.0.0.1 - - [04/Apr/2022 19:52:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:53,696 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:53,697 In-flight request: Connection established!
+2022-04-04 19:52:53,698 127.0.0.1 - - [04/Apr/2022 19:52:53] "GET /admin HTTP/1.1" 200 -
+2022-04-04 19:52:53,721 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:53,721 In-flight request: Connection established!
+2022-04-04 19:52:53,723 127.0.0.1 - - [04/Apr/2022 19:52:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:54,903 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:54,903 In-flight request: Connection established!
+2022-04-04 19:52:54,904 127.0.0.1 - - [04/Apr/2022 19:52:54] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 19:52:54,938 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:54,938 In-flight request: Connection established!
+2022-04-04 19:52:54,940 127.0.0.1 - - [04/Apr/2022 19:52:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:52:57,188 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:57,188 In-flight request: Connection established!
+2022-04-04 19:52:57,189 127.0.0.1 - - [04/Apr/2022 19:52:57] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:52:57,223 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:52:57,224 In-flight request: Connection established!
+2022-04-04 19:52:57,226 127.0.0.1 - - [04/Apr/2022 19:52:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:53:02,288 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:02,288 In-flight request: Connection established!
+2022-04-04 19:53:02,289 127.0.0.1 - - [04/Apr/2022 19:53:02] "GET /login HTTP/1.1" 200 -
+2022-04-04 19:53:02,321 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:02,322 In-flight request: Connection established!
+2022-04-04 19:53:02,324 127.0.0.1 - - [04/Apr/2022 19:53:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:53:03,532 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:03,532 In-flight request: Connection established!
+2022-04-04 19:53:03,533 127.0.0.1 - - [04/Apr/2022 19:53:03] "GET /product HTTP/1.1" 200 -
+2022-04-04 19:53:03,569 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:03,569 In-flight request: Connection established!
+2022-04-04 19:53:03,571 127.0.0.1 - - [04/Apr/2022 19:53:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:53:04,572 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:04,572 In-flight request: Connection established!
+2022-04-04 19:53:04,589 127.0.0.1 - - [04/Apr/2022 19:53:04] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:53:04,617 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:04,618 In-flight request: Connection established!
+2022-04-04 19:53:04,620 127.0.0.1 - - [04/Apr/2022 19:53:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:53:11,262 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:11,262 In-flight request: Connection established!
+2022-04-04 19:53:11,265 127.0.0.1 - - [04/Apr/2022 19:53:11] "GET /Home HTTP/1.1" 200 -
+2022-04-04 19:53:11,333 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:11,334 In-flight request: Connection established!
+2022-04-04 19:53:11,335 127.0.0.1 - - [04/Apr/2022 19:53:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:53:12,680 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:12,680 In-flight request: Connection established!
+2022-04-04 19:53:12,681 127.0.0.1 - - [04/Apr/2022 19:53:12] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:53:12,716 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:53:12,717 In-flight request: Connection established!
+2022-04-04 19:53:12,718 127.0.0.1 - - [04/Apr/2022 19:53:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:54:58,668  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:54:58,669  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:54:59,424 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:55:00,105 In-flight request: Connection established!
+2022-04-04 19:55:00,123 127.0.0.1 - - [04/Apr/2022 19:55:00] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:55:00,172 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:55:00,172 In-flight request: Connection established!
+2022-04-04 19:55:00,174 127.0.0.1 - - [04/Apr/2022 19:55:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 19:56:12,232  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 19:56:12,232  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 19:56:13,404 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:56:14,490 In-flight request: Connection established!
+2022-04-04 19:56:14,505 127.0.0.1 - - [04/Apr/2022 19:56:14] "GET /user HTTP/1.1" 200 -
+2022-04-04 19:56:14,552 In-flight request: Attempting to establish connection to DB
+2022-04-04 19:56:14,552 In-flight request: Connection established!
+2022-04-04 19:56:14,553 127.0.0.1 - - [04/Apr/2022 19:56:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 20:09:44,262  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 20:09:44,263  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 20:09:53,103 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:09:53,961 In-flight request: Connection established!
+2022-04-04 20:09:53,982 127.0.0.1 - - [04/Apr/2022 20:09:53] "GET /user HTTP/1.1" 200 -
+2022-04-04 20:09:54,036 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:09:54,037 In-flight request: Connection established!
+2022-04-04 20:09:54,039 127.0.0.1 - - [04/Apr/2022 20:09:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 20:14:45,752  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 20:14:45,753  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 20:14:48,022 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:14:48,717 In-flight request: Connection established!
+2022-04-04 20:14:48,734 127.0.0.1 - - [04/Apr/2022 20:14:48] "GET /user HTTP/1.1" 200 -
+2022-04-04 20:14:48,769 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:14:48,769 In-flight request: Connection established!
+2022-04-04 20:14:48,771 127.0.0.1 - - [04/Apr/2022 20:14:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 20:15:18,525 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:15:18,525 In-flight request: Connection established!
+2022-04-04 20:15:18,722 Exception on /add_user [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 121, in add_user
+    query = application.user.add_new_address(ad_id[0], usr_id[0], request.form)
+  File "/Users/macbook/Downloads/w4111-proj1-main/application/user.py", line 74, in add_new_address
+    add_ad = add_ad.format(address_id = str(int(ad_id) + 1),
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2022-04-04 20:15:18,768 127.0.0.1 - - [04/Apr/2022 20:15:18] "[35m[1mPOST /add_user HTTP/1.1[0m" 500 -
+2022-04-04 20:21:51,107  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 20:21:51,107  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 20:21:52,718 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:21:53,581 In-flight request: Connection established!
+2022-04-04 20:21:53,604 127.0.0.1 - - [04/Apr/2022 20:21:53] "GET /user HTTP/1.1" 200 -
+2022-04-04 20:21:53,625 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:21:53,625 In-flight request: Connection established!
+2022-04-04 20:21:53,627 127.0.0.1 - - [04/Apr/2022 20:21:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 20:22:13,372 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:22:13,372 In-flight request: Connection established!
+2022-04-04 20:22:13,588 Exception on /add_user [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 122, in add_user
+    query = application.user.add_new_address(ad_id[0], usr_id[0], request.form)
+  File "/Users/macbook/Downloads/w4111-proj1-main/application/user.py", line 74, in add_new_address
+    add_ad = add_ad.format(address_id = str(int(ad_id) + 1),
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2022-04-04 20:22:13,619 127.0.0.1 - - [04/Apr/2022 20:22:13] "[35m[1mPOST /add_user HTTP/1.1[0m" 500 -
+2022-04-04 20:48:00,542  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 20:48:00,544  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 20:48:07,183 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:48:07,880 In-flight request: Connection established!
+2022-04-04 20:48:07,899 127.0.0.1 - - [04/Apr/2022 20:48:07] "GET /user HTTP/1.1" 200 -
+2022-04-04 20:48:07,942 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:48:07,942 In-flight request: Connection established!
+2022-04-04 20:48:07,944 127.0.0.1 - - [04/Apr/2022 20:48:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 20:48:53,166 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:48:53,167 In-flight request: Connection established!
+2022-04-04 20:48:53,443 Exception on /add_user [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 126, in add_user
+    query = application.user.add_new_address(ad_id[0], usr_id[0], request.form)
+  File "/Users/macbook/Downloads/w4111-proj1-main/application/user.py", line 74, in add_new_address
+    add_ad = add_ad.format(address_id = str(int(ad_id) + 1),
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2022-04-04 20:48:53,501 127.0.0.1 - - [04/Apr/2022 20:48:53] "[35m[1mPOST /add_user HTTP/1.1[0m" 500 -
+2022-04-04 20:51:39,105 In-flight request: Attempting to establish connection to DB
+2022-04-04 20:51:39,105 In-flight request: Connection established!
+2022-04-04 20:51:39,326 Exception on /add_user [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 126, in add_user
+  File "/Users/macbook/Downloads/w4111-proj1-main/application/user.py", line 74, in add_new_address
+    add_ad = add_ad.format(address_id = str(int(ad_id) + 1),
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2022-04-04 20:51:39,368 127.0.0.1 - - [04/Apr/2022 20:51:39] "[35m[1mPOST /add_user HTTP/1.1[0m" 500 -
+2022-04-04 21:00:26,336  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:00:26,337  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:00:28,813 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:29,444 In-flight request: Connection established!
+2022-04-04 21:00:29,450 127.0.0.1 - - [04/Apr/2022 21:00:29] "GET /Home HTTP/1.1" 200 -
+2022-04-04 21:00:29,530 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:29,531 In-flight request: Connection established!
+2022-04-04 21:00:29,533 127.0.0.1 - - [04/Apr/2022 21:00:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:00:30,591 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:30,591 In-flight request: Connection established!
+2022-04-04 21:00:30,599 127.0.0.1 - - [04/Apr/2022 21:00:30] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:00:30,635 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:30,635 In-flight request: Connection established!
+2022-04-04 21:00:30,637 127.0.0.1 - - [04/Apr/2022 21:00:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:00:32,741 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:32,742 In-flight request: Connection established!
+2022-04-04 21:00:32,742 127.0.0.1 - - [04/Apr/2022 21:00:32] "GET /Home HTTP/1.1" 200 -
+2022-04-04 21:00:32,786 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:32,786 In-flight request: Connection established!
+2022-04-04 21:00:32,788 127.0.0.1 - - [04/Apr/2022 21:00:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:00:34,036 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:34,039 In-flight request: Connection established!
+2022-04-04 21:00:34,040 127.0.0.1 - - [04/Apr/2022 21:00:34] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:00:34,074 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:34,074 In-flight request: Connection established!
+2022-04-04 21:00:34,076 127.0.0.1 - - [04/Apr/2022 21:00:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:00:35,011 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:35,011 In-flight request: Connection established!
+2022-04-04 21:00:35,012 127.0.0.1 - - [04/Apr/2022 21:00:35] "GET /Home HTTP/1.1" 200 -
+2022-04-04 21:00:35,041 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:35,042 In-flight request: Connection established!
+2022-04-04 21:00:35,043 127.0.0.1 - - [04/Apr/2022 21:00:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:00:35,709 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:35,709 In-flight request: Connection established!
+2022-04-04 21:00:35,710 127.0.0.1 - - [04/Apr/2022 21:00:35] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:00:35,744 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:00:35,744 In-flight request: Connection established!
+2022-04-04 21:00:35,746 127.0.0.1 - - [04/Apr/2022 21:00:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:03:52,741  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:03:52,741  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:03:54,740 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:03:55,338 In-flight request: Connection established!
+2022-04-04 21:03:55,353 127.0.0.1 - - [04/Apr/2022 21:03:55] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:03:55,399 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:03:55,400 In-flight request: Connection established!
+2022-04-04 21:03:55,401 127.0.0.1 - - [04/Apr/2022 21:03:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:05:32,046  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:05:32,047  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:05:32,626 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:05:33,902 In-flight request: Connection established!
+2022-04-04 21:05:33,919 127.0.0.1 - - [04/Apr/2022 21:05:33] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:05:33,965 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:05:33,965 In-flight request: Connection established!
+2022-04-04 21:05:33,967 127.0.0.1 - - [04/Apr/2022 21:05:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:05,159  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:06:05,160  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:06:06,387 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:07,032 In-flight request: Connection established!
+2022-04-04 21:06:07,048 127.0.0.1 - - [04/Apr/2022 21:06:07] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:06:07,069 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:07,070 In-flight request: Connection established!
+2022-04-04 21:06:07,071 127.0.0.1 - - [04/Apr/2022 21:06:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:18,063 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:18,063 In-flight request: Connection established!
+2022-04-04 21:06:18,073 127.0.0.1 - - [04/Apr/2022 21:06:18] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:06:18,099 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:18,099 In-flight request: Connection established!
+2022-04-04 21:06:18,101 127.0.0.1 - - [04/Apr/2022 21:06:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:24,890 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:24,891 In-flight request: Connection established!
+2022-04-04 21:06:24,892 127.0.0.1 - - [04/Apr/2022 21:06:24] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:06:24,920 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:24,920 In-flight request: Connection established!
+2022-04-04 21:06:24,922 127.0.0.1 - - [04/Apr/2022 21:06:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:33,522 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:33,522 In-flight request: Connection established!
+2022-04-04 21:06:33,523 127.0.0.1 - - [04/Apr/2022 21:06:33] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:06:33,555 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:33,555 In-flight request: Connection established!
+2022-04-04 21:06:33,557 127.0.0.1 - - [04/Apr/2022 21:06:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:46,218 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:46,218 In-flight request: Connection established!
+2022-04-04 21:06:46,219 127.0.0.1 - - [04/Apr/2022 21:06:46] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:06:46,277 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:46,277 In-flight request: Connection established!
+2022-04-04 21:06:46,278 127.0.0.1 - - [04/Apr/2022 21:06:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:51,504 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:51,504 In-flight request: Connection established!
+2022-04-04 21:06:51,505 127.0.0.1 - - [04/Apr/2022 21:06:51] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:06:51,537 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:51,537 In-flight request: Connection established!
+2022-04-04 21:06:51,538 127.0.0.1 - - [04/Apr/2022 21:06:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:06:59,950 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:59,951 In-flight request: Connection established!
+2022-04-04 21:06:59,955 127.0.0.1 - - [04/Apr/2022 21:06:59] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:06:59,990 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:06:59,990 In-flight request: Connection established!
+2022-04-04 21:06:59,992 127.0.0.1 - - [04/Apr/2022 21:06:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:01,842 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:01,842 In-flight request: Connection established!
+2022-04-04 21:07:01,843 127.0.0.1 - - [04/Apr/2022 21:07:01] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:07:01,876 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:01,876 In-flight request: Connection established!
+2022-04-04 21:07:01,877 127.0.0.1 - - [04/Apr/2022 21:07:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:02,679 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:02,680 In-flight request: Connection established!
+2022-04-04 21:07:02,681 127.0.0.1 - - [04/Apr/2022 21:07:02] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:07:02,715 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:02,715 In-flight request: Connection established!
+2022-04-04 21:07:02,716 127.0.0.1 - - [04/Apr/2022 21:07:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:05,594 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:05,595 In-flight request: Connection established!
+2022-04-04 21:07:05,610 127.0.0.1 - - [04/Apr/2022 21:07:05] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:07:05,640 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:05,640 In-flight request: Connection established!
+2022-04-04 21:07:05,642 127.0.0.1 - - [04/Apr/2022 21:07:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:07,080 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:07,080 In-flight request: Connection established!
+2022-04-04 21:07:07,081 127.0.0.1 - - [04/Apr/2022 21:07:07] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:07:07,118 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:07,119 In-flight request: Connection established!
+2022-04-04 21:07:07,120 127.0.0.1 - - [04/Apr/2022 21:07:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:08,049 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:08,049 In-flight request: Connection established!
+2022-04-04 21:07:08,050 127.0.0.1 - - [04/Apr/2022 21:07:08] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:07:08,080 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:08,081 In-flight request: Connection established!
+2022-04-04 21:07:08,082 127.0.0.1 - - [04/Apr/2022 21:07:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:11,982 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:11,982 In-flight request: Connection established!
+2022-04-04 21:07:11,998 127.0.0.1 - - [04/Apr/2022 21:07:11] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:07:12,031 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:12,031 In-flight request: Connection established!
+2022-04-04 21:07:12,032 127.0.0.1 - - [04/Apr/2022 21:07:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:24,666 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:24,666 In-flight request: Connection established!
+2022-04-04 21:07:24,667 127.0.0.1 - - [04/Apr/2022 21:07:24] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:07:24,698 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:24,698 In-flight request: Connection established!
+2022-04-04 21:07:24,700 127.0.0.1 - - [04/Apr/2022 21:07:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:25,893 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:25,893 In-flight request: Connection established!
+2022-04-04 21:07:25,894 127.0.0.1 - - [04/Apr/2022 21:07:25] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:07:25,929 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:25,929 In-flight request: Connection established!
+2022-04-04 21:07:25,930 127.0.0.1 - - [04/Apr/2022 21:07:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:28,075 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:28,076 In-flight request: Connection established!
+2022-04-04 21:07:28,077 127.0.0.1 - - [04/Apr/2022 21:07:28] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:07:28,112 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:28,112 In-flight request: Connection established!
+2022-04-04 21:07:28,113 127.0.0.1 - - [04/Apr/2022 21:07:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:28,998 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:28,999 In-flight request: Connection established!
+2022-04-04 21:07:29,000 127.0.0.1 - - [04/Apr/2022 21:07:29] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:07:29,032 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:29,032 In-flight request: Connection established!
+2022-04-04 21:07:29,034 127.0.0.1 - - [04/Apr/2022 21:07:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:49,135 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:49,136 In-flight request: Connection established!
+2022-04-04 21:07:49,137 127.0.0.1 - - [04/Apr/2022 21:07:49] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:07:49,192 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:49,192 In-flight request: Connection established!
+2022-04-04 21:07:49,193 127.0.0.1 - - [04/Apr/2022 21:07:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:52,498 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:52,498 In-flight request: Connection established!
+2022-04-04 21:07:52,499 127.0.0.1 - - [04/Apr/2022 21:07:52] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:07:52,530 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:52,531 In-flight request: Connection established!
+2022-04-04 21:07:52,532 127.0.0.1 - - [04/Apr/2022 21:07:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:54,641 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:54,641 In-flight request: Connection established!
+2022-04-04 21:07:54,642 127.0.0.1 - - [04/Apr/2022 21:07:54] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:07:54,675 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:54,675 In-flight request: Connection established!
+2022-04-04 21:07:54,676 127.0.0.1 - - [04/Apr/2022 21:07:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:07:57,469 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:57,469 In-flight request: Connection established!
+2022-04-04 21:07:57,470 127.0.0.1 - - [04/Apr/2022 21:07:57] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:07:57,508 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:07:57,509 In-flight request: Connection established!
+2022-04-04 21:07:57,510 127.0.0.1 - - [04/Apr/2022 21:07:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:08:44,732  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:08:44,732  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:08:46,646 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:08:47,590 In-flight request: Connection established!
+2022-04-04 21:08:47,612 127.0.0.1 - - [04/Apr/2022 21:08:47] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:08:47,632 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:08:47,632 In-flight request: Connection established!
+2022-04-04 21:08:47,634 127.0.0.1 - - [04/Apr/2022 21:08:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:09:48,927  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:09:48,927  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:09:49,408 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:09:50,420 In-flight request: Connection established!
+2022-04-04 21:09:50,442 127.0.0.1 - - [04/Apr/2022 21:09:50] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:09:50,486 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:09:50,486 In-flight request: Connection established!
+2022-04-04 21:09:50,488 127.0.0.1 - - [04/Apr/2022 21:09:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:10:12,956 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:12,956 In-flight request: Connection established!
+2022-04-04 21:10:12,965 127.0.0.1 - - [04/Apr/2022 21:10:12] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:10:12,996 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:12,997 In-flight request: Connection established!
+2022-04-04 21:10:12,998 127.0.0.1 - - [04/Apr/2022 21:10:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:10:17,660 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:17,660 In-flight request: Connection established!
+2022-04-04 21:10:17,661 127.0.0.1 - - [04/Apr/2022 21:10:17] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:10:17,696 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:17,696 In-flight request: Connection established!
+2022-04-04 21:10:17,698 127.0.0.1 - - [04/Apr/2022 21:10:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:10:21,029 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:21,030 In-flight request: Connection established!
+2022-04-04 21:10:21,031 127.0.0.1 - - [04/Apr/2022 21:10:21] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:10:21,062 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:21,063 In-flight request: Connection established!
+2022-04-04 21:10:21,064 127.0.0.1 - - [04/Apr/2022 21:10:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:10:23,067 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:23,067 In-flight request: Connection established!
+2022-04-04 21:10:23,078 127.0.0.1 - - [04/Apr/2022 21:10:23] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:10:23,115 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:23,116 In-flight request: Connection established!
+2022-04-04 21:10:23,117 127.0.0.1 - - [04/Apr/2022 21:10:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:10:24,384 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:24,384 In-flight request: Connection established!
+2022-04-04 21:10:24,385 127.0.0.1 - - [04/Apr/2022 21:10:24] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:10:24,417 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:10:24,418 In-flight request: Connection established!
+2022-04-04 21:10:24,419 127.0.0.1 - - [04/Apr/2022 21:10:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:12:39,303 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:12:39,303 In-flight request: Connection established!
+2022-04-04 21:12:39,305 127.0.0.1 - - [04/Apr/2022 21:12:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:12:42,233 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:12:42,233 In-flight request: Connection established!
+2022-04-04 21:12:42,234 127.0.0.1 - - [04/Apr/2022 21:12:42] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:12:42,260 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:12:42,260 In-flight request: Connection established!
+2022-04-04 21:12:42,262 127.0.0.1 - - [04/Apr/2022 21:12:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:17:34,438  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:17:34,438  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:17:35,891 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:17:36,546 In-flight request: Connection established!
+2022-04-04 21:17:36,571 127.0.0.1 - - [04/Apr/2022 21:17:36] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:17:36,619 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:17:36,620 In-flight request: Connection established!
+2022-04-04 21:17:36,621 127.0.0.1 - - [04/Apr/2022 21:17:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:21:19,419  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:21:19,420  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:21:20,252 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:21:21,054 In-flight request: Connection established!
+2022-04-04 21:21:21,078 127.0.0.1 - - [04/Apr/2022 21:21:21] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:21:21,124 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:21:21,124 In-flight request: Connection established!
+2022-04-04 21:21:21,126 127.0.0.1 - - [04/Apr/2022 21:21:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:24:49,656  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:24:49,657  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:24:50,107 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:24:51,255 In-flight request: Connection established!
+2022-04-04 21:24:51,277 127.0.0.1 - - [04/Apr/2022 21:24:51] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:24:51,325 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:24:51,326 In-flight request: Connection established!
+2022-04-04 21:24:51,327 127.0.0.1 - - [04/Apr/2022 21:24:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:25:43,680  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:25:43,681  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:25:45,088 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:25:46,137 In-flight request: Connection established!
+2022-04-04 21:25:46,159 127.0.0.1 - - [04/Apr/2022 21:25:46] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:25:46,178 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:25:46,178 In-flight request: Connection established!
+2022-04-04 21:25:46,179 127.0.0.1 - - [04/Apr/2022 21:25:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:26:31,792 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:26:31,792 In-flight request: Connection established!
+2022-04-04 21:26:31,804 127.0.0.1 - - [04/Apr/2022 21:26:31] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:26:31,854 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:26:31,854 In-flight request: Connection established!
+2022-04-04 21:26:31,855 127.0.0.1 - - [04/Apr/2022 21:26:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:27:53,104  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:27:53,104  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:27:53,674 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:27:54,082 In-flight request: Connection established!
+2022-04-04 21:27:54,098 127.0.0.1 - - [04/Apr/2022 21:27:54] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:27:54,142 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:27:54,142 In-flight request: Connection established!
+2022-04-04 21:27:54,143 127.0.0.1 - - [04/Apr/2022 21:27:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:28:03,203 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:28:03,204 In-flight request: Connection established!
+2022-04-04 21:28:03,224 127.0.0.1 - - [04/Apr/2022 21:28:03] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:28:03,244 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:28:03,244 In-flight request: Connection established!
+2022-04-04 21:28:03,245 127.0.0.1 - - [04/Apr/2022 21:28:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:28:06,547 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:28:06,548 In-flight request: Connection established!
+2022-04-04 21:28:06,563 127.0.0.1 - - [04/Apr/2022 21:28:06] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:28:06,585 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:28:06,585 In-flight request: Connection established!
+2022-04-04 21:28:06,586 127.0.0.1 - - [04/Apr/2022 21:28:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:37:38,207  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:37:38,207  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:37:38,613 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:37:39,306 In-flight request: Connection established!
+2022-04-04 21:37:39,327 127.0.0.1 - - [04/Apr/2022 21:37:39] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:37:39,373 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:37:39,373 In-flight request: Connection established!
+2022-04-04 21:37:39,375 127.0.0.1 - - [04/Apr/2022 21:37:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:40:30,060  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:40:30,061  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:40:30,503 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:40:31,863 In-flight request: Connection established!
+2022-04-04 21:40:31,884 127.0.0.1 - - [04/Apr/2022 21:40:31] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:40:31,929 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:40:31,929 In-flight request: Connection established!
+2022-04-04 21:40:31,930 127.0.0.1 - - [04/Apr/2022 21:40:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:43:39,470  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:43:39,471  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:43:40,365 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:43:41,080 In-flight request: Connection established!
+2022-04-04 21:43:41,090 127.0.0.1 - - [04/Apr/2022 21:43:41] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:43:41,122 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:43:41,122 In-flight request: Connection established!
+2022-04-04 21:43:41,123 127.0.0.1 - - [04/Apr/2022 21:43:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:45:16,169  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:45:16,169  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:45:16,301 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:45:17,668 In-flight request: Connection established!
+2022-04-04 21:45:17,690 127.0.0.1 - - [04/Apr/2022 21:45:17] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:45:17,740 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:45:17,740 In-flight request: Connection established!
+2022-04-04 21:45:17,742 127.0.0.1 - - [04/Apr/2022 21:45:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:46:44,826  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:46:44,826  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:46:45,127 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:46:45,810 In-flight request: Connection established!
+2022-04-04 21:46:45,831 127.0.0.1 - - [04/Apr/2022 21:46:45] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:46:45,876 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:46:45,876 In-flight request: Connection established!
+2022-04-04 21:46:45,877 127.0.0.1 - - [04/Apr/2022 21:46:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:13,875 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:13,876 In-flight request: Connection established!
+2022-04-04 21:48:13,886 127.0.0.1 - - [04/Apr/2022 21:48:13] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:48:13,933 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:13,933 In-flight request: Connection established!
+2022-04-04 21:48:13,934 127.0.0.1 - - [04/Apr/2022 21:48:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:19,252 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:19,252 In-flight request: Connection established!
+2022-04-04 21:48:19,256 127.0.0.1 - - [04/Apr/2022 21:48:19] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:48:19,282 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:19,283 In-flight request: Connection established!
+2022-04-04 21:48:19,285 127.0.0.1 - - [04/Apr/2022 21:48:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:21,069 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:21,070 In-flight request: Connection established!
+2022-04-04 21:48:21,087 127.0.0.1 - - [04/Apr/2022 21:48:21] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:48:21,112 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:21,112 In-flight request: Connection established!
+2022-04-04 21:48:21,114 127.0.0.1 - - [04/Apr/2022 21:48:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:22,299 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:22,300 In-flight request: Connection established!
+2022-04-04 21:48:22,301 127.0.0.1 - - [04/Apr/2022 21:48:22] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:48:22,328 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:22,328 In-flight request: Connection established!
+2022-04-04 21:48:22,329 127.0.0.1 - - [04/Apr/2022 21:48:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:23,512 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:23,512 In-flight request: Connection established!
+2022-04-04 21:48:23,513 127.0.0.1 - - [04/Apr/2022 21:48:23] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:48:23,535 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:23,536 In-flight request: Connection established!
+2022-04-04 21:48:23,537 127.0.0.1 - - [04/Apr/2022 21:48:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:24,271 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:24,271 In-flight request: Connection established!
+2022-04-04 21:48:24,272 127.0.0.1 - - [04/Apr/2022 21:48:24] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:48:24,301 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:24,302 In-flight request: Connection established!
+2022-04-04 21:48:24,303 127.0.0.1 - - [04/Apr/2022 21:48:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:48:25,303 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:25,304 In-flight request: Connection established!
+2022-04-04 21:48:25,315 127.0.0.1 - - [04/Apr/2022 21:48:25] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:48:25,336 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:48:25,336 In-flight request: Connection established!
+2022-04-04 21:48:25,338 127.0.0.1 - - [04/Apr/2022 21:48:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:49:31,864  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:49:31,864  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:49:32,675 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:49:34,236 In-flight request: Connection established!
+2022-04-04 21:49:34,257 127.0.0.1 - - [04/Apr/2022 21:49:34] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:49:34,309 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:49:34,310 In-flight request: Connection established!
+2022-04-04 21:49:34,311 127.0.0.1 - - [04/Apr/2022 21:49:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:50:23,830  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:50:23,831  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:50:24,888 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:50:25,442 In-flight request: Connection established!
+2022-04-04 21:50:25,457 127.0.0.1 - - [04/Apr/2022 21:50:25] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:50:25,479 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:50:25,479 In-flight request: Connection established!
+2022-04-04 21:50:25,481 127.0.0.1 - - [04/Apr/2022 21:50:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:50:57,798  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:50:57,798  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:50:58,255 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:50:58,868 In-flight request: Connection established!
+2022-04-04 21:50:58,889 127.0.0.1 - - [04/Apr/2022 21:50:58] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:50:58,935 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:50:58,935 In-flight request: Connection established!
+2022-04-04 21:50:58,937 127.0.0.1 - - [04/Apr/2022 21:50:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:51:22,804  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:51:22,804  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:51:23,639 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:51:24,183 In-flight request: Connection established!
+2022-04-04 21:51:24,203 127.0.0.1 - - [04/Apr/2022 21:51:24] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:51:24,222 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:51:24,223 In-flight request: Connection established!
+2022-04-04 21:51:24,225 127.0.0.1 - - [04/Apr/2022 21:51:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:51:26,568 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:51:26,568 In-flight request: Connection established!
+2022-04-04 21:51:26,570 127.0.0.1 - - [04/Apr/2022 21:51:26] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:51:26,591 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:51:26,592 In-flight request: Connection established!
+2022-04-04 21:51:26,593 127.0.0.1 - - [04/Apr/2022 21:51:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:51:39,499  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:51:39,499  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:51:40,219 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:51:41,003 In-flight request: Connection established!
+2022-04-04 21:51:41,021 127.0.0.1 - - [04/Apr/2022 21:51:41] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:51:41,042 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:51:41,043 In-flight request: Connection established!
+2022-04-04 21:51:41,044 127.0.0.1 - - [04/Apr/2022 21:51:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:08,101  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:52:08,101  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:52:09,240 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:09,972 In-flight request: Connection established!
+2022-04-04 21:52:09,991 127.0.0.1 - - [04/Apr/2022 21:52:09] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:52:10,035 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:10,035 In-flight request: Connection established!
+2022-04-04 21:52:10,037 127.0.0.1 - - [04/Apr/2022 21:52:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:12,694 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:12,694 In-flight request: Connection established!
+2022-04-04 21:52:12,695 127.0.0.1 - - [04/Apr/2022 21:52:12] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:52:12,717 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:12,717 In-flight request: Connection established!
+2022-04-04 21:52:12,719 127.0.0.1 - - [04/Apr/2022 21:52:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:34,559  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-04 21:52:34,560  * Running on http://129.236.174.199:8111/ (Press CTRL+C to quit)
+2022-04-04 21:52:43,436 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:44,613 In-flight request: Connection established!
+2022-04-04 21:52:44,630 127.0.0.1 - - [04/Apr/2022 21:52:44] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:52:44,658 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:44,659 In-flight request: Connection established!
+2022-04-04 21:52:44,660 127.0.0.1 - - [04/Apr/2022 21:52:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:48,724 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:48,724 In-flight request: Connection established!
+2022-04-04 21:52:48,728 127.0.0.1 - - [04/Apr/2022 21:52:48] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:52:48,750 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:48,751 In-flight request: Connection established!
+2022-04-04 21:52:48,752 127.0.0.1 - - [04/Apr/2022 21:52:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:50,012 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:50,012 In-flight request: Connection established!
+2022-04-04 21:52:50,029 127.0.0.1 - - [04/Apr/2022 21:52:50] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:52:50,053 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:50,054 In-flight request: Connection established!
+2022-04-04 21:52:50,055 127.0.0.1 - - [04/Apr/2022 21:52:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:50,651 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:50,652 In-flight request: Connection established!
+2022-04-04 21:52:50,668 127.0.0.1 - - [04/Apr/2022 21:52:50] "GET /admin HTTP/1.1" 200 -
+2022-04-04 21:52:50,692 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:50,692 In-flight request: Connection established!
+2022-04-04 21:52:50,693 127.0.0.1 - - [04/Apr/2022 21:52:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:51,549 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:51,549 In-flight request: Connection established!
+2022-04-04 21:52:51,553 127.0.0.1 - - [04/Apr/2022 21:52:51] "GET /Home HTTP/1.1" 200 -
+2022-04-04 21:52:51,578 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:51,578 In-flight request: Connection established!
+2022-04-04 21:52:51,579 127.0.0.1 - - [04/Apr/2022 21:52:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:52,172 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:52,173 In-flight request: Connection established!
+2022-04-04 21:52:52,184 127.0.0.1 - - [04/Apr/2022 21:52:52] "GET /user HTTP/1.1" 200 -
+2022-04-04 21:52:52,204 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:52,204 In-flight request: Connection established!
+2022-04-04 21:52:52,205 127.0.0.1 - - [04/Apr/2022 21:52:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:53,093 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:53,093 In-flight request: Connection established!
+2022-04-04 21:52:53,094 127.0.0.1 - - [04/Apr/2022 21:52:53] "GET /product HTTP/1.1" 200 -
+2022-04-04 21:52:53,121 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:53,121 In-flight request: Connection established!
+2022-04-04 21:52:53,122 127.0.0.1 - - [04/Apr/2022 21:52:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:53,739 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:53,739 In-flight request: Connection established!
+2022-04-04 21:52:53,740 127.0.0.1 - - [04/Apr/2022 21:52:53] "GET /login HTTP/1.1" 200 -
+2022-04-04 21:52:53,764 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:53,764 In-flight request: Connection established!
+2022-04-04 21:52:53,766 127.0.0.1 - - [04/Apr/2022 21:52:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-04 21:52:54,289 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:54,289 In-flight request: Connection established!
+2022-04-04 21:52:54,290 127.0.0.1 - - [04/Apr/2022 21:52:54] "GET /user_view HTTP/1.1" 200 -
+2022-04-04 21:52:54,317 In-flight request: Attempting to establish connection to DB
+2022-04-04 21:52:54,318 In-flight request: Connection established!
+2022-04-04 21:52:54,319 127.0.0.1 - - [04/Apr/2022 21:52:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 13:52:14,914  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 13:52:14,915  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 13:52:21,343 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:22,454 In-flight request: Connection established!
+2022-04-05 13:52:22,467 127.0.0.1 - - [05/Apr/2022 13:52:22] "GET / HTTP/1.1" 200 -
+2022-04-05 13:52:22,523 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:22,523 In-flight request: Connection established!
+2022-04-05 13:52:22,526 127.0.0.1 - - [05/Apr/2022 13:52:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 13:52:26,698 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:26,698 In-flight request: Connection established!
+2022-04-05 13:52:26,716 127.0.0.1 - - [05/Apr/2022 13:52:26] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 13:52:26,747 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:26,747 In-flight request: Connection established!
+2022-04-05 13:52:26,749 127.0.0.1 - - [05/Apr/2022 13:52:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 13:52:35,725 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:35,726 In-flight request: Connection established!
+2022-04-05 13:52:35,726 127.0.0.1 - - [05/Apr/2022 13:52:35] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 13:52:35,742 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:35,742 In-flight request: Connection established!
+2022-04-05 13:52:35,742 127.0.0.1 - - [05/Apr/2022 13:52:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 13:52:39,442 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:39,443 In-flight request: Connection established!
+2022-04-05 13:52:39,455 127.0.0.1 - - [05/Apr/2022 13:52:39] "GET /user HTTP/1.1" 200 -
+2022-04-05 13:52:39,480 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:52:39,480 In-flight request: Connection established!
+2022-04-05 13:52:39,481 127.0.0.1 - - [05/Apr/2022 13:52:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 13:54:16,732 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:54:16,733 In-flight request: Connection established!
+2022-04-05 13:54:17,370 127.0.0.1 - - [05/Apr/2022 13:54:17] "POST /add_user HTTP/1.1" 200 -
+2022-04-05 13:54:17,405 In-flight request: Attempting to establish connection to DB
+2022-04-05 13:54:17,405 In-flight request: Connection established!
+2022-04-05 13:54:17,406 127.0.0.1 - - [05/Apr/2022 13:54:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:06:55,399 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:06:55,400 In-flight request: Connection established!
+2022-04-05 14:06:55,407 127.0.0.1 - - [05/Apr/2022 14:06:55] "GET /product HTTP/1.1" 200 -
+2022-04-05 14:06:55,447 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:06:55,447 In-flight request: Connection established!
+2022-04-05 14:06:55,448 127.0.0.1 - - [05/Apr/2022 14:06:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:07:39,067 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:07:39,071 In-flight request: Connection established!
+2022-04-05 14:07:39,093 127.0.0.1 - - [05/Apr/2022 14:07:39] "GET /admin HTTP/1.1" 200 -
+2022-04-05 14:07:39,136 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:07:39,136 In-flight request: Connection established!
+2022-04-05 14:07:39,138 127.0.0.1 - - [05/Apr/2022 14:07:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:08:22,012 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:08:22,014 In-flight request: Connection established!
+2022-04-05 14:08:22,015 127.0.0.1 - - [05/Apr/2022 14:08:22] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 14:08:22,073 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:08:22,073 In-flight request: Connection established!
+2022-04-05 14:08:22,074 127.0.0.1 - - [05/Apr/2022 14:08:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:09:28,625 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:09:28,627 In-flight request: Connection established!
+2022-04-05 14:09:28,629 127.0.0.1 - - [05/Apr/2022 14:09:28] "GET /user HTTP/1.1" 200 -
+2022-04-05 14:09:28,687 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:09:28,688 In-flight request: Connection established!
+2022-04-05 14:09:28,689 127.0.0.1 - - [05/Apr/2022 14:09:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:09:32,568 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:09:32,569 In-flight request: Connection established!
+2022-04-05 14:09:32,815 127.0.0.1 - - [05/Apr/2022 14:09:32] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:09:32,828 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:09:32,828 In-flight request: Connection established!
+2022-04-05 14:09:32,829 127.0.0.1 - - [05/Apr/2022 14:09:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:10:04,237 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:10:04,238 In-flight request: Connection established!
+2022-04-05 14:10:04,382 127.0.0.1 - - [05/Apr/2022 14:10:04] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:10:04,403 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:10:04,404 In-flight request: Connection established!
+2022-04-05 14:10:04,405 127.0.0.1 - - [05/Apr/2022 14:10:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:11:51,227  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 14:11:51,228  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 14:11:54,082 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:11:55,032 In-flight request: Connection established!
+2022-04-05 14:11:55,056 127.0.0.1 - - [05/Apr/2022 14:11:55] "GET /user HTTP/1.1" 200 -
+2022-04-05 14:11:55,107 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:11:55,108 In-flight request: Connection established!
+2022-04-05 14:11:55,109 127.0.0.1 - - [05/Apr/2022 14:11:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:11:57,456 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:11:57,456 In-flight request: Connection established!
+2022-04-05 14:11:57,596 127.0.0.1 - - [05/Apr/2022 14:11:57] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:11:57,634 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:11:57,634 In-flight request: Connection established!
+2022-04-05 14:11:57,635 127.0.0.1 - - [05/Apr/2022 14:11:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:13:49,605  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 14:13:49,605  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 14:13:58,707 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:13:59,506 In-flight request: Connection established!
+2022-04-05 14:13:59,524 127.0.0.1 - - [05/Apr/2022 14:13:59] "GET /user HTTP/1.1" 200 -
+2022-04-05 14:13:59,546 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:13:59,546 In-flight request: Connection established!
+2022-04-05 14:13:59,547 127.0.0.1 - - [05/Apr/2022 14:13:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:14:01,818 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:01,819 In-flight request: Connection established!
+2022-04-05 14:14:01,920 127.0.0.1 - - [05/Apr/2022 14:14:01] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:14:01,940 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:01,940 In-flight request: Connection established!
+2022-04-05 14:14:01,942 127.0.0.1 - - [05/Apr/2022 14:14:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:14:06,654 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:06,654 In-flight request: Connection established!
+2022-04-05 14:14:06,733 127.0.0.1 - - [05/Apr/2022 14:14:06] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:14:06,756 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:06,757 In-flight request: Connection established!
+2022-04-05 14:14:06,758 127.0.0.1 - - [05/Apr/2022 14:14:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:14:23,527 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:23,528 In-flight request: Connection established!
+2022-04-05 14:14:23,716 127.0.0.1 - - [05/Apr/2022 14:14:23] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:14:23,743 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:23,743 In-flight request: Connection established!
+2022-04-05 14:14:23,745 127.0.0.1 - - [05/Apr/2022 14:14:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:14:37,651 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:37,652 In-flight request: Connection established!
+2022-04-05 14:14:38,325 127.0.0.1 - - [05/Apr/2022 14:14:38] "POST /search_user HTTP/1.1" 200 -
+2022-04-05 14:14:38,349 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:14:38,349 In-flight request: Connection established!
+2022-04-05 14:14:38,350 127.0.0.1 - - [05/Apr/2022 14:14:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:15:21,230  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 14:15:21,231  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 14:15:26,913 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:15:27,736 In-flight request: Connection established!
+2022-04-05 14:15:27,761 127.0.0.1 - - [05/Apr/2022 14:15:27] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 14:15:27,788 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:15:27,788 In-flight request: Connection established!
+2022-04-05 14:15:27,789 127.0.0.1 - - [05/Apr/2022 14:15:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:15:40,750 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:15:40,750 In-flight request: Connection established!
+2022-04-05 14:15:41,218 127.0.0.1 - - [05/Apr/2022 14:15:41] "POST /add_address HTTP/1.1" 200 -
+2022-04-05 14:15:41,247 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:15:41,247 In-flight request: Connection established!
+2022-04-05 14:15:41,248 127.0.0.1 - - [05/Apr/2022 14:15:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:15:50,825 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:15:50,826 In-flight request: Connection established!
+2022-04-05 14:15:50,930 127.0.0.1 - - [05/Apr/2022 14:15:50] "POST /search_my_address HTTP/1.1" 200 -
+2022-04-05 14:15:50,952 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:15:50,952 In-flight request: Connection established!
+2022-04-05 14:15:50,953 127.0.0.1 - - [05/Apr/2022 14:15:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:16:21,775 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:16:21,775 In-flight request: Connection established!
+2022-04-05 14:16:22,136 127.0.0.1 - - [05/Apr/2022 14:16:22] "POST /add_payment HTTP/1.1" 200 -
+2022-04-05 14:16:22,161 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:16:22,161 In-flight request: Connection established!
+2022-04-05 14:16:22,162 127.0.0.1 - - [05/Apr/2022 14:16:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:16:32,865 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:16:32,865 In-flight request: Connection established!
+2022-04-05 14:16:33,093 127.0.0.1 - - [05/Apr/2022 14:16:33] "POST /search_my_payment HTTP/1.1" 200 -
+2022-04-05 14:16:33,165 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:16:33,165 In-flight request: Connection established!
+2022-04-05 14:16:33,166 127.0.0.1 - - [05/Apr/2022 14:16:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:16:42,192 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:16:42,192 In-flight request: Connection established!
+2022-04-05 14:16:42,340 127.0.0.1 - - [05/Apr/2022 14:16:42] "POST /search_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 14:16:42,366 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:16:42,366 In-flight request: Connection established!
+2022-04-05 14:16:42,367 127.0.0.1 - - [05/Apr/2022 14:16:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:17:32,871  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 14:17:32,871  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 14:17:35,486 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:17:36,910 In-flight request: Connection established!
+2022-04-05 14:17:37,275 Exception on /search_my_shoppingcart [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1808, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.SyntaxError: syntax error at or near "."
+LINE 17:  sc_info.ordered
+                 ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 473, in find_my_sc
+    cursor = g.conn.execute(query)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1280, in execute
+    return self._exec_driver_sql(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1584, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1851, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2032, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1808, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.SyntaxError) syntax error at or near "."
+LINE 17:  sc_info.ordered
+                 ^
+
+[SQL: 
+     WITH sc_info AS(
+SELECT
+	*
+FROM
+	shop_from sf NATURAL JOIN 
+	product pd NATURAL JOIN 
+	shopping_cart sc
+)
+SELECT
+    sc_info.sc_id,
+	sc_info.user_id,
+	sc_info.product_id,
+	sc_info.product_name,
+	sc_info.quantity,
+	sc_info.total
+	sc_info.ordered
+FROM 
+	sc_info
+    WHERE
+    sc_info.user_id = 1
+]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2022-04-05 14:17:37,294 127.0.0.1 - - [05/Apr/2022 14:17:37] "[35m[1mPOST /search_my_shoppingcart HTTP/1.1[0m" 500 -
+2022-04-05 14:17:46,233 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:17:46,233 In-flight request: Connection established!
+2022-04-05 14:17:46,366 Exception on /search_my_shoppingcart [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1808, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.SyntaxError: syntax error at or near "."
+LINE 17:  sc_info.ordered
+                 ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 473, in find_my_sc
+    cursor = g.conn.execute(query)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1280, in execute
+    return self._exec_driver_sql(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1584, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1851, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2032, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1808, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.SyntaxError) syntax error at or near "."
+LINE 17:  sc_info.ordered
+                 ^
+
+[SQL: 
+     WITH sc_info AS(
+SELECT
+	*
+FROM
+	shop_from sf NATURAL JOIN 
+	product pd NATURAL JOIN 
+	shopping_cart sc
+)
+SELECT
+    sc_info.sc_id,
+	sc_info.user_id,
+	sc_info.product_id,
+	sc_info.product_name,
+	sc_info.quantity,
+	sc_info.total
+	sc_info.ordered
+FROM 
+	sc_info
+    WHERE
+    sc_info.user_id = 1
+]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+2022-04-05 14:17:46,368 127.0.0.1 - - [05/Apr/2022 14:17:46] "[35m[1mPOST /search_my_shoppingcart HTTP/1.1[0m" 500 -
+2022-04-05 14:18:23,682  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 14:18:23,682  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 14:18:33,100 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:18:34,043 In-flight request: Connection established!
+2022-04-05 14:18:34,064 127.0.0.1 - - [05/Apr/2022 14:18:34] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 14:18:34,092 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:18:34,092 In-flight request: Connection established!
+2022-04-05 14:18:34,093 127.0.0.1 - - [05/Apr/2022 14:18:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:18:40,268 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:18:40,268 In-flight request: Connection established!
+2022-04-05 14:18:40,372 127.0.0.1 - - [05/Apr/2022 14:18:40] "POST /search_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 14:18:40,399 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:18:40,399 In-flight request: Connection established!
+2022-04-05 14:18:40,400 127.0.0.1 - - [05/Apr/2022 14:18:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 14:19:48,899  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 14:19:48,899  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 14:19:53,518 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:19:55,033 In-flight request: Connection established!
+2022-04-05 14:19:55,056 127.0.0.1 - - [05/Apr/2022 14:19:55] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 14:19:55,076 In-flight request: Attempting to establish connection to DB
+2022-04-05 14:19:55,077 In-flight request: Connection established!
+2022-04-05 14:19:55,079 127.0.0.1 - - [05/Apr/2022 14:19:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 15:47:33,619  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 15:47:33,621  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 15:47:37,460 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:47:38,380 In-flight request: Connection established!
+2022-04-05 15:47:38,407 127.0.0.1 - - [05/Apr/2022 15:47:38] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 15:47:38,435 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:47:38,436 In-flight request: Connection established!
+2022-04-05 15:47:38,437 127.0.0.1 - - [05/Apr/2022 15:47:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 15:47:52,150 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:47:52,151 In-flight request: Connection established!
+2022-04-05 15:47:52,505 127.0.0.1 - - [05/Apr/2022 15:47:52] "POST /search_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 15:47:52,533 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:47:52,533 In-flight request: Connection established!
+2022-04-05 15:47:52,534 127.0.0.1 - - [05/Apr/2022 15:47:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 15:48:16,361 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:48:16,362 In-flight request: Connection established!
+2022-04-05 15:48:16,373 127.0.0.1 - - [05/Apr/2022 15:48:16] "GET /product HTTP/1.1" 200 -
+2022-04-05 15:48:16,401 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:48:16,401 In-flight request: Connection established!
+2022-04-05 15:48:16,402 127.0.0.1 - - [05/Apr/2022 15:48:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 15:48:22,877 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:48:22,877 In-flight request: Connection established!
+2022-04-05 15:48:23,008 127.0.0.1 - - [05/Apr/2022 15:48:23] "POST /search_product_category HTTP/1.1" 200 -
+2022-04-05 15:48:23,028 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:48:23,028 In-flight request: Connection established!
+2022-04-05 15:48:23,029 127.0.0.1 - - [05/Apr/2022 15:48:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 15:49:53,194 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:49:53,194 In-flight request: Connection established!
+2022-04-05 15:49:53,325 Exception on /update_my_shoppingcart [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 519, in shoppingCart_update
+    query = application.user_view.add_new_order(od_id[0], request.form)
+  File "/Users/macbook/Downloads/w4111-proj1-main/application/user_view.py", line 235, in add_new_order
+    add_od = add_od.format(od_id = str(int(od_id) + 1),
+KeyError: 'total'
+2022-04-05 15:49:53,337 127.0.0.1 - - [05/Apr/2022 15:49:53] "[35m[1mPOST /update_my_shoppingcart HTTP/1.1[0m" 500 -
+2022-04-05 15:50:47,175  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 15:50:47,176  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 15:50:52,426 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:50:54,113 In-flight request: Connection established!
+2022-04-05 15:50:55,015 Exception on /update_my_shoppingcart [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1808, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type integer: ""
+LINE 4:     '2022-04-05 15:50:47','')
+                                  ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 521, in shoppingCart_update
+    cursor = g.conn.execute(query)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1280, in execute
+    return self._exec_driver_sql(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1584, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1851, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2032, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1808, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DataError: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: ""
+LINE 4:     '2022-04-05 15:50:47','')
+                                  ^
+
+[SQL: 
+    INSERT INTO order_detail VALUES (32,'32',
+    '32','292','191',
+    '2022-04-05 15:50:47','')
+]
+(Background on this error at: https://sqlalche.me/e/14/9h9h)
+2022-04-05 15:50:55,033 127.0.0.1 - - [05/Apr/2022 15:50:55] "[35m[1mPOST /update_my_shoppingcart HTTP/1.1[0m" 500 -
+2022-04-05 15:51:34,891  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 15:51:34,891  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 15:51:41,223 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:51:42,180 In-flight request: Connection established!
+2022-04-05 15:51:42,789 127.0.0.1 - - [05/Apr/2022 15:51:42] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 15:51:42,815 In-flight request: Attempting to establish connection to DB
+2022-04-05 15:51:42,815 In-flight request: Connection established!
+2022-04-05 15:51:42,817 127.0.0.1 - - [05/Apr/2022 15:51:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:04:15,856  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:04:15,857  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 16:04:31,073 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:04:32,293 In-flight request: Connection established!
+2022-04-05 16:04:32,318 127.0.0.1 - - [05/Apr/2022 16:04:32] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 16:04:32,344 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:04:32,344 In-flight request: Connection established!
+2022-04-05 16:04:32,346 127.0.0.1 - - [05/Apr/2022 16:04:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:04:45,995 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:04:45,996 In-flight request: Connection established!
+2022-04-05 16:04:46,189 127.0.0.1 - - [05/Apr/2022 16:04:46] "POST /search_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:04:46,210 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:04:46,210 In-flight request: Connection established!
+2022-04-05 16:04:46,211 127.0.0.1 - - [05/Apr/2022 16:04:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:05:26,024 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:05:26,025 In-flight request: Connection established!
+2022-04-05 16:05:27,053 127.0.0.1 - - [05/Apr/2022 16:05:27] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:05:27,105 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:05:27,105 In-flight request: Connection established!
+2022-04-05 16:05:27,106 127.0.0.1 - - [05/Apr/2022 16:05:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:12:14,271  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:12:14,272  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 16:13:47,238 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:13:48,574 In-flight request: Connection established!
+2022-04-05 16:13:49,802 127.0.0.1 - - [05/Apr/2022 16:13:49] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:13:49,846 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:13:49,847 In-flight request: Connection established!
+2022-04-05 16:13:49,848 127.0.0.1 - - [05/Apr/2022 16:13:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:16:32,373 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:16:32,374 In-flight request: Connection established!
+2022-04-05 16:16:33,771 127.0.0.1 - - [05/Apr/2022 16:16:33] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:16:33,831 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:16:33,831 In-flight request: Connection established!
+2022-04-05 16:16:33,833 127.0.0.1 - - [05/Apr/2022 16:16:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:18:02,292 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:18:02,292 In-flight request: Connection established!
+2022-04-05 16:18:02,404 127.0.0.1 - - [05/Apr/2022 16:18:02] "POST /search_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:18:02,423 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:18:02,424 In-flight request: Connection established!
+2022-04-05 16:18:02,425 127.0.0.1 - - [05/Apr/2022 16:18:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:18:56,384 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:18:56,385 In-flight request: Connection established!
+2022-04-05 16:18:57,397 127.0.0.1 - - [05/Apr/2022 16:18:57] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:18:57,447 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:18:57,447 In-flight request: Connection established!
+2022-04-05 16:18:57,448 127.0.0.1 - - [05/Apr/2022 16:18:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:19:34,812 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:19:34,813 In-flight request: Connection established!
+2022-04-05 16:19:34,823 127.0.0.1 - - [05/Apr/2022 16:19:34] "GET /product HTTP/1.1" 200 -
+2022-04-05 16:19:34,845 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:19:34,845 In-flight request: Connection established!
+2022-04-05 16:19:34,846 127.0.0.1 - - [05/Apr/2022 16:19:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:19:55,118 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:19:55,118 In-flight request: Connection established!
+2022-04-05 16:19:55,217 127.0.0.1 - - [05/Apr/2022 16:19:55] "POST /search_product_name HTTP/1.1" 200 -
+2022-04-05 16:19:55,238 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:19:55,238 In-flight request: Connection established!
+2022-04-05 16:19:55,240 127.0.0.1 - - [05/Apr/2022 16:19:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:28:56,985  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:28:56,987  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 16:30:42,449 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:30:43,109 In-flight request: Connection established!
+2022-04-05 16:30:43,237 127.0.0.1 - - [05/Apr/2022 16:30:43] "POST /search_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:30:43,294 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:30:43,294 In-flight request: Connection established!
+2022-04-05 16:30:43,298 127.0.0.1 - - [05/Apr/2022 16:30:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:31:39,567 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:31:39,568 In-flight request: Connection established!
+2022-04-05 16:31:40,293 127.0.0.1 - - [05/Apr/2022 16:31:40] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:31:40,319 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:31:40,319 In-flight request: Connection established!
+2022-04-05 16:31:40,320 127.0.0.1 - - [05/Apr/2022 16:31:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:35:18,723  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:35:18,724  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 16:36:03,288 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:36:04,075 In-flight request: Connection established!
+2022-04-05 16:36:04,749 127.0.0.1 - - [05/Apr/2022 16:36:04] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:36:04,778 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:36:04,778 In-flight request: Connection established!
+2022-04-05 16:36:04,780 127.0.0.1 - - [05/Apr/2022 16:36:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:38:02,335  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:38:02,336  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 16:38:07,616 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:38:08,293 In-flight request: Connection established!
+2022-04-05 16:38:08,319 127.0.0.1 - - [05/Apr/2022 16:38:08] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 16:38:08,349 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:38:08,349 In-flight request: Connection established!
+2022-04-05 16:38:08,351 127.0.0.1 - - [05/Apr/2022 16:38:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:38:13,086 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:38:13,087 In-flight request: Connection established!
+2022-04-05 16:38:13,152 Exception on /update_my_shoppingcart [POST]
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1289, in execute
+    meth = statement._execute_on_connection
+AttributeError: 'NoneType' object has no attribute '_execute_on_connection'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/macbook/Downloads/w4111-proj1-main/server.py", line 515, in shoppingCart_update
+    cursor = g.conn.execute(query)
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1291, in execute
+    util.raise_(
+  File "/Users/macbook/opt/anaconda3/envs/w4111-proj1-main/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+sqlalchemy.exc.ObjectNotExecutableError: Not an executable object: None
+2022-04-05 16:38:13,205 127.0.0.1 - - [05/Apr/2022 16:38:13] "[35m[1mPOST /update_my_shoppingcart HTTP/1.1[0m" 500 -
+2022-04-05 16:38:20,499 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:38:20,499 In-flight request: Connection established!
+2022-04-05 16:38:21,170 127.0.0.1 - - [05/Apr/2022 16:38:21] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:38:21,188 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:38:21,188 In-flight request: Connection established!
+2022-04-05 16:38:21,189 127.0.0.1 - - [05/Apr/2022 16:38:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:56:21,613  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:56:21,614  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)
+2022-04-05 16:56:30,610 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:56:31,376 In-flight request: Connection established!
+2022-04-05 16:56:31,407 127.0.0.1 - - [05/Apr/2022 16:56:31] "GET /user_view HTTP/1.1" 200 -
+2022-04-05 16:56:31,432 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:56:31,432 In-flight request: Connection established!
+2022-04-05 16:56:31,434 127.0.0.1 - - [05/Apr/2022 16:56:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:56:42,582 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:56:42,582 In-flight request: Connection established!
+2022-04-05 16:56:43,348 127.0.0.1 - - [05/Apr/2022 16:56:43] "POST /update_my_shoppingcart HTTP/1.1" 200 -
+2022-04-05 16:56:43,368 In-flight request: Attempting to establish connection to DB
+2022-04-05 16:56:43,368 In-flight request: Connection established!
+2022-04-05 16:56:43,369 127.0.0.1 - - [05/Apr/2022 16:56:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-04-05 16:59:16,843  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-05 16:59:16,844  * Running on http://129.236.174.219:8111/ (Press CTRL+C to quit)

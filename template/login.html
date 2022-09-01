@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Platform Management System</title>
+    <meta name="description" content="This is a women innerwear shopping platform">
+    <meta name="keywords" content="Victoria's Secret, innerwear, women">
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <div id="header">
+
+            <div class="top_banner">
+                <h1>Women's Innerwear Shopping Management</h1>
+            </div>
+
+        </div>
+
+        <div id="page_content">
+
+            <div class="left_side_bar">
+
+                <div class="col_1">
+                    <div class="box">
+                        <ul>
+                            <li><a href="/Home">Home</a></li>
+                            <li><a href="/user">User</a></li>
+                            <li><a href="/product">Product</a></li>
+                            <li><a href="/login">Login</a></li>
+                            <li><a href="/user_view">User View</a></li>
+                            <li><a href="/admin">Admin</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="right_section">
+                <div class="common_content">
+                    <h2>User Login</h2>
+                    <hr>
+                    <!-- "action" is function in server.py -->
+                    <form accept-charset="UTF-8" action="/user_verification" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br />
+                            <label for="password">Password : </label> <input name="password"type="password" value="" /> <br />
+                            <input type="submit" value="submit" onclick="loading();">
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

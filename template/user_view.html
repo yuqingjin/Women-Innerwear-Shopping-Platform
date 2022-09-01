@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Platform Management System</title>
+    <meta name="description" content="This is a women innerwear shopping platform">
+    <meta name="keywords" content="Victoria's Secret, innerwear, women">
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <div id="header">
+
+            <div class="top_banner">
+                <h1>Women's Innerwear Shopping Management</h1>
+            </div>
+
+        </div>
+
+        <div id="page_content">
+
+            <div class="left_side_bar">
+
+                <div class="col_1">
+                    <div class="box">
+                        <ul>
+                            <li><a href="/Home">Home</a></li>
+                            <li><a href="/user">User</a></li>
+                            <li><a href="/product">Product</a></li>
+                            <li><a href="/login">Login</a></li>
+                            <li><a href="/user_view">User View</a></li>
+                            <li><a href="/admin">Admin</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="right_section">
+                <div class="common_content">
+                    <h2>User View</h2>
+                    <hr>
+                    <h2>User Addresses : </h2>
+                    <fieldset>
+                    <!-- "action" is function in server.py -->
+                    <form accept-charset="UTF-8" action="/add_address" autocomplete="off" method="POST"
+                    target="_blank">
+                    <fieldset>
+                        <legend>Add New Address</legend>
+                        <label for="user_id">User ID : </label> <input name="user_id"type="text" value=""/> <br />
+                        <label for="address_line1">Street Address: </label><input name="address_line1" type="text" value="" /> <br />
+                        <label for="address_line2">Apt(optional): </label><input name="address_line2" type="text" value="" /> <br />
+                        <label for="city">City: </label><input name="city" type="text" value="" /> <br />
+                        <label for="state">State: </label><input name="state" type="text" value="" /> <br />
+                        <label for="postcode">Postcode: </label><input name="postcode" type="text" value="" /> <br />
+                        <label for="phone_number">Phone Number: </label><input name="phone_number" type="text" value="" placeholder="xxx-xxx-xxxx"/> <br />
+                        <input type="submit" value="Add" onclick="loading();">
+                    </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Address ID</th>
+                                <th>User ID</th>
+                                <th>Street Address</th>
+                                <th>Apt</th>
+                                <th>City</th>
+                                <th>State</th>
+                                <th>Postcode</th>
+                                <th>Phone Number</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in add_ad %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+
+                    <form accept-charset="UTF-8" action="/search_my_address" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Find Address</legend>
+                            <label for="user_id">User ID : </label><input name="user_id" type="text"value="" /> <br />
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Address ID</th>
+                                <th>User ID</th>
+                                <th>Street Address</th>
+                                <th>Apt</th>
+                                <th>City</th>
+                                <th>State</th>
+                                <th>Postcode</th>
+                                <th>Phone Number</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in find_ad %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    </fieldset>
+                    <h2>User Payment : </h2>
+                    <fieldset>
+                    <form accept-charset="UTF-8" action="/add_payment" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Add New Payment</legend>
+                                <label for="user_id">User ID : </label> <input name="user_id"type="text" value=""/> <br />
+                                <label for="card_number">Card Number : </label><input name="card_number" type="text" value="" /> <br />
+                                <label for="expiration_date">Expiration Date : </label><input name="expiration_date" type="text" value="" placeholder="MM/YY"/> <br />
+                                <label for="cvv">CVV : </label><input name="cvv" type="text" value="" placeholder="xxx"/> <br />
+                                <input type="submit" value="Add" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Payment ID</th>
+                                <th>User ID</th>
+                                <th>Card Number</th>
+                                <th>Expiration Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in add_py %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+
+                    <form accept-charset="UTF-8" action="/search_my_payment" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                                <legend>Find My Payment</legend>
+                                <label for="user_id">User ID : </label><input name="user_id" type="text"value="" /> <br />
+                                <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Payment ID</th>
+                                <th>User ID</th>
+                                <th>Card Number</th>
+                                <th>Expiration Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in find_py %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+            </fieldset>
+
+            <h2>User Shopping Cart : </h2>
+            <fieldset>
+                    <form accept-charset="UTF-8" action="/search_my_shoppingcart" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Find My Shopping Cart</legend>
+                            <label for="user_id">User ID : </label><input name="user_id" type="text"value="" /> <br />
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Shopping Cart ID</th>
+                                <th>User ID</th>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                                <th>Ordered ("1"=have already ordered, "0"=not ordered yet)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in find_sc %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    </form>
+                </form>
+
+            <form accept-charset="UTF-8" action="/update_my_shoppingcart" autocomplete="off" method="POST"
+                target="_blank">
+                <fieldset>
+                    <legend>Update My Shopping Cart</legend>
+                    <label for="sc_id">Shopping Cart ID : </label><input name="sc_id" type="text"value="" /> <br />
+                    <label for="user_id">User ID : </label><input name="user_id" type="text"value="" /> <br />
+                    <label for="confirmation">Order or Delete this shopping cart : </label> <br />
+                    <form>
+                      <input type="radio" id="order" name="update_action" value="order">
+                      <label for="order">Order</label><br>
+                      <input type="radio" id="delete" name="update_action" value="delete">
+                      <label for="delete">Delete</label>
+                    </form>
+                    <br>
+                    <label for="order">If you want to make it an order : </label><br>
+                    <label for="payment_id">Payment ID : </label><input name="payment_id" type="text"value="" /> <br />
+                    <label for="address_id">Address ID : </label><input name="address_id" type="text"value="" /> <br />
+                    <br>
+                    <input type="submit" value="Confirm" onclick="loading();">
+                </fieldset>
+            </form>
+            <br />
+            <table class="base_qry_render">
+                <thead>
+                    <tr>
+                        <th>Order ID</th>
+                        <th>User ID</th>
+                        <th>Shopping Cart ID</th>
+                        <th>Address ID</th>
+                        <th>Payment ID</th>
+                        <th>Created Time</th>
+                        <th>Product ID</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in update_sc %}
+                    <tr>
+                        {% for i in row %}
+                            <td>{{i}}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table><hr />
+            </form>
+            </form>
+        </fieldset>
+        </fieldset>
+        <h2>User Order Information : </h2>
+            <fieldset>
+                    <form accept-charset="UTF-8" action="/search_my_order" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Find My Order</legend>
+                            <label for="user_id">User ID : </label><input name="user_id" type="text"value="" /> <br />
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th>
+                                <th>User ID</th>
+                                <th>Shopping Cart ID</th>
+                                <th>Address ID</th>
+                                <th>Payment ID</th>
+                                <th>Created Time</th>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in find_od %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                </div>
+            </div>
+        </fieldset>
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

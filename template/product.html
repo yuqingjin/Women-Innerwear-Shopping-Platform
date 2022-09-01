@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Platform Management System</title>
+    <meta name="description" content="This is a women innerwear shopping platform">
+    <meta name="keywords" content="Victoria's Secret, innerwear, women">
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <div id="header">
+
+            <div class="top_banner">
+                <h1>Women's Innerwear Shopping Management</h1>
+            </div>
+
+        </div>
+
+        <div id="page_content">
+
+            <div class="left_side_bar">
+
+                <div class="col_1">
+                    <div class="box">
+                        <ul>
+                            <li><a href="/Home">Home</a></li>
+                            <li><a href="/user">User</a></li>
+                            <li><a href="/product">Product</a></li>
+                            <li><a href="/login">Login</a></li>
+                            <li><a href="/user_view">User View</a></li>
+                            <li><a href="/admin">Admin</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="right_section">
+                <div class="common_content">
+                    <h2>Products</h2>
+                    <hr>
+                    <!-- "action" is function in server.py -->
+                    <form accept-charset="UTF-8" action="/search_product_name" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Search for Product:</legend> 
+                            <label for="product_name">Product Name : </label><input name="product_name" type="text"value="" /> <br />
+                            <!-- <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br /> -->
+                            <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Inventory</th>
+                                <th>Unit Price</th>
+                                
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in apt_name %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br /><hr />
+                    <form accept-charset="UTF-8" action="/search_product_category" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Search for Product by Category:</legend>
+                            <label for="category_name">Category Name : </label><input name="category_name" type="text"value="" /> <br />
+                            <!-- <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br /> -->
+                            <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                            <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Product ID</th>
+                                <th>Product Name</th>
+                                <th>Inventory</th>
+                                <th>Unit Price</th>
+                                <th>Category ID</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in apt_category %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    <br /><hr />
+                    <form accept-charset="UTF-8" action="/add_product_shoppingcart" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Add Product to Shopping Cart:</legend>
+                            <label for="product_id">Product ID : </label><input name="product_id" type="text"value="" /> <br />
+                            <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br />
+                            <label for="quantity">Quantity : </label> <input name="quantity"type="text" value="" /> <br />
+                            <!-- <label for="limit">Show Only Latest Appointment : </label><input type="checkbox" name="limit" /> <br /> -->
+                            <input type="submit" value="Add" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Shopping Cart ID</th>
+                                <th>User ID</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in apt_sc %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

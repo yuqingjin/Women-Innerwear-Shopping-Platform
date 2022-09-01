@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping Platform Management System</title>
+    <meta name="description" content="This is a women innerwear shopping platform">
+    <meta name="keywords" content="Victoria's Secret, innerwear, women">
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <div id="header">
+
+            <div class="top_banner">
+                <h1>Shopping Platform Management System</h1>
+            </div>
+
+        </div>
+
+        <div id="page_content">
+
+            <div class="left_side_bar">
+
+                <div class="col_1">
+                    <div class="box">
+                        <ul>
+                            <li><a href="/Home">Home</a></li>
+                            <li><a href="/user">User</a></li>
+                            <li><a href="/product">Product</a></li>
+                            <li><a href="/login">Login</a></li>
+                            <li><a href="/user_view">User View</a></li>
+                            <li><a href="/admin">Admin</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="right_section">
+                <div class="common_content">
+                    <h2>Users</h2>
+                    <hr>
+                    <h2>Search Registered User Below : </h2>
+                    <form accept-charset="UTF-8" action="/search_user" autocomplete="off" method="POST"
+                        target="_blank">
+                        <fieldset>
+                            <legend>Find User : </legend>
+                            <!-- 不需要输入密码，密码仅用户可知 -->
+                                <label for="user_id">User ID : </label> <input name="user_id"type="text" value="" /> <br />
+                                <label for="name">Name : </label><input name="name" type="text" /> <br />
+                                <label for="phone_number">Phone Number : </label><input name="phone_number" type="text" value="" /> <br />
+                                <label for="email">Email : </label><input name="email" type="email" value="" /> <br />
+                                <input type="submit" value="Search" onclick="loading();">
+                        </fieldset>
+                    </form>
+                    <br></hr>
+                    <h2>Registered User Information : </h2>
+                    <fieldset>
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>User ID</th>
+                                <th>Name</th>
+                                <th>Phone Number</th>
+                                <th>Email</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in usr_search %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    <br />
+                    </fieldset>
+                <br>
+                    <hr>
+                <h2>Enter New User Information Below : </h2>
+                    <form accept-charset="UTF-8" action="/add_user" autocomplete="off" method="POST"
+                    target="_blank">
+                    <fieldset>
+                    <fieldset>
+                        <legend>Add User Info : </legend>
+                            <label for="name">Name : </label><input type="text" name="name" /> <br />
+                            <label for="password">Password : </label><input name="password" type="text" value="" /> <br />
+                            <label for="phone_number">Phone Number : </label><input name="phone_number" type="text" value="" /> <br />
+                            <label for="email">Email : </label><input name="email" type="email" value="" /> <br />
+                    </fieldset>
+                        <br>
+                        <fieldset>
+                            <legend>Add My Address (Required) : </legend>
+                            <label for="address_line1">Street Address : </label><input name="address_line1" type="text" value="" /> <br />
+                            <label for="address_line2">Apt(optional) : </label><input name="address_line2" type="text" value="" /> <br />
+                            <label for="city">City : </label><input name="city" type="text" value="" /> <br />
+                            <label for="state">State : </label><input name="state" type="text" value="" /> <br />
+                            <label for="postcode">Postcode : </label><input name="postcode" type="text" value="" /> <br />
+                            <label for="phone_number">Phone Number : </label><input name="phone_number" type="text" value="" /> <br />
+                        </fieldset>
+                        <br>
+                        <fieldset>
+                            <legend>Add My Payment (Required) : </legend>
+                                <label for="card_number">Card Number : </label><input name="card_number" type="text" value="" /> <br />
+                                <label for="expiration_date">Expiration Date : </label><input name="expiration_date" type="text" value="" placeholder="MM/YY"/> <br />
+                                <label for="cvv">CVV : </label><input name="cvv" type="password" value="" /> <br />
+                                <input type="submit" value="Add" onclick="loading();">
+                        </fieldset>
+                        </fieldset>
+                        <br></hr>
+                        <h2>New User Information : </h2>
+                        <fieldset>
+                        <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>User ID</th>
+                                <th>Name</th>
+                                <th>Phone Number</th>
+                                <th>Email</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in usr_add %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    <br />
+                <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Address ID</th>
+                                <th>User ID</th>
+                                <th>Street Address</th>
+                                <th>Apt</th>
+                                <th>City</th>
+                                <th>State</th>
+                                <th>Postcode</th>
+                                <th>Phone Number</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in ad_add %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    <br />
+                    <table class="base_qry_render">
+                        <thead>
+                            <tr>
+                                <th>Payment ID</th>
+                                <th>User ID</th>
+                                <th>Card Number</th>
+                                <th>Expiration Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in py_add %}
+                            <tr>
+                                {% for i in row %}
+                                    <td>{{i}}</td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table><hr />
+                    <br>
+                </div>
+            </div>
+            </fieldset>
+
+            <div class="clear"></div>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
